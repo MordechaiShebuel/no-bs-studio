@@ -1,4 +1,4 @@
-The Lunduke Computer Operating System does not have an official "Code of Conduct".
+The No-BS Studio does not have an official "Code of Conduct".
 
 All people are welcome to use and enjoy The Lunduke Computer Operating System, regardless of:
 
@@ -9,13 +9,13 @@ All people are welcome to use and enjoy The Lunduke Computer Operating System, r
 - Political Leanings
 - Taste in Music
 
-When interacting with The Lunduke Computer Operating System (email, forums, or any other communications) there exists a very simple (very easy to follow) set of rules:
+When interacting with The No-BS-Studio (email, forums, or any other communications) there exists a very simple (very easy to follow) set of rules:
 
 - Be Excellent to Each Other.
 - No Cursin' or Swearin'.
 - Meritocracy Rules.
 
-That said, the leadership of The Lunduke Computer Operating System highly recommends the following.
+That said, the leadership of The No-BS-Studio highly recommends the following.
 
 The Ten Commandments (English Translation from Exodus 20: 2 - 14):
 
