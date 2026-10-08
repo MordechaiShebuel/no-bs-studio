@@ -1,5 +1,7 @@
-OBS Studio Code Style Guidelines
+NO-BS Studio Code Style Guidelines
 ================================
+
+# Convert to AGENT file, get rid of OBS marketing
 
 The project requires all contributions to have their source code formatted using appropriate formatting tools to reduce the potential impact of stylistic changes to a structured “diff” view of code.
 
